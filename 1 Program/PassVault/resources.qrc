@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/file">
+        <file>bar.jpg</file>
+        <file>Splash.jpg</file>
+        <file>change_password_png_5_nMu_icon.ico</file>
+        <file>savepass.jpg</file>
+        <file>showpass.jpg</file>
+        <file>signout.jpg</file>
+        <file>my.sqlite</file>
+    </qresource>
+</RCC>
